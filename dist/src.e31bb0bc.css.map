@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles\\main.scss"],"names":[],"mappings":"AACA;EACE,YAFI","file":"src.e31bb0bc.css","sourceRoot":"..\\src","sourcesContent":["$sup: #ccc;\r\nbody {\r\n  background: $sup;\r\n}\r\n"]}
